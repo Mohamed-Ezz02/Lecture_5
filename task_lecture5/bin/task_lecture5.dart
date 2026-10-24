@@ -1,4 +1,3 @@
-
 //Q1
 
 double calculateTotal(double a, double b, double c) {
@@ -30,7 +29,6 @@ void main() {
 }
 
 
-
 //Q2
 
 class Student {
@@ -57,7 +55,6 @@ Student findTopStudent(List<Student> students) {
 }
 
 void main() {
-  // إنشاء 3 كائنات للطلاب
   Student s1 = Student("Ahmed", 20, 48.5);
   Student s2 = Student("Fatima", 21, 92.0);
   Student s3 = Student("Omar", 19, 78.5);
